@@ -1,2 +1,7 @@
 # cs103
-cs103 codes
+Introduction to programming
+First programming course in C++ at USC
+Good introduction
+Cheers!
+
+Weihang Zhang
